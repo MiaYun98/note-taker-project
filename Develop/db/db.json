@@ -1,0 +1,27 @@
+[
+    {
+        "title": "example",
+        "text": "this is an example of the note",
+        "id": "8610"
+    },
+    {
+        "title": "Way to add notes",
+        "text": "when you click the right top + button you can add notes to the server",
+        "id": "49ce"
+    },
+    {
+        "title": "Save",
+        "text": "when you press the save button it saves the notes for you with the special id combined with numbers and the alphabet ",
+        "id": "ba00"
+    },
+    {
+        "title": "Clicking the notes",
+        "text": "When you click the notes, it shows the text of the notes with the title on this right side of the page",
+        "id": "95a1"
+    },
+    {
+        "title": "Delete",
+        "text": "You can also delete the message by clicking the trashcan button on the right side of the each note \nit automatically finds the id of the notes and deletes from the db.json file",
+        "id": "0d58"
+    }
+]
