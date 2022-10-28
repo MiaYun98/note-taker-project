@@ -2,6 +2,13 @@
 
 ## Description 
 
+When you load the page it shows the index.html and when you click the button at the middle it directs you to the /notes page that moving to the notes.html
+
+In the /notes page you can see the server saved notes on the left side of the app and you when you click each of the notes you can also see the title, and the body of the notes on the right side of the page 
+
+You can also add notes when you click the save button which is on the top right of the page 
+
+Lastly, when you click the trashcan icon next to the each notes you can delete the notes from the database file 
 
 ## User story 
 
