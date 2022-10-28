@@ -91,7 +91,7 @@ router.delete('/api/notes/:id', (req, res) => {
         const dataArr = JSON.parse(data);
         const note = dataArr.find( c => c.id === (req.params.id))
         if(!note) {
-            return res.status(404).send("the note is deleted properly");
+            return res.status(404).send("There is an error to delete the notes");
         }
         const index = dataArr.indexOf(note) 
         dataArr.splice(index,1);
